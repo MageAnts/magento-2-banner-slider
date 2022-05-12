@@ -2,10 +2,10 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Banner Slider Extension</h2>
+				<h1>Magento 2 Banner Slider Extension</h1>
 				<p>With the help of the <strong><a href="https://www.mageants.com/responsive-banner-slider-extension-for-magento-2.html">Magento 2 Banner Slider Extension</a></strong> the store owner can set up attractive and eye-catching banner sliders for the store pages. It helps in grabbing more attention from the customer by providing them special offers. This is very helpful in driving more sales and increasing revenue.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>This is a very easy-to-use extension that makes the changes very easy.</li>
 						<li>Users are allowed to add new sliders to the website according to their requirements.</li>
